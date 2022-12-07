@@ -83,7 +83,8 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
      helmet morgan jsonwebtoken nodemon cookie-parser moment mysql
      
   ### Design of MySQL Database
-     👉picture
+  
+     👉picture (waiting to be uploaded)
      
      👉Logic 
      
@@ -107,6 +108,10 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
      👉Code 
      
        Check Mysql.sql
+       
+  ### Logic & Relationship between each file
+  
+      I'll describe it in detail later.
      
   ### 🔍Realized Functions 
   
