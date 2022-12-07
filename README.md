@@ -149,7 +149,9 @@
    ### The end 📌
    
       Thank you for visiting my website and my repositery. 
+      
       Feel free to ask any tech question that you might be faced after you clone locally and start to deploy your own social media app!
+      
       I'll keep exploring more functions of a social network app.👍
       
       
