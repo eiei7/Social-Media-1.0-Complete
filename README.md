@@ -87,10 +87,29 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
      
      👉Logic 
      
+     What user can do ?
+     
+       Add their details – (FirstName, LastName, Gender, Date of Birth, Email, Password, Occupation, profilePicture, etc).
+       Write multiple posts with text/image/emoji.
+       Show / Hide image dropzone.
+       View followed object's posts.
+       View followed lists / followers lists (flippable).
+       Like / DisLike(Cancel Like) others’ posts.
+       View posts' comments.
+       Show / Hide posts' comments.
+       View others' personal profile page.
+       Follow / Disfollow followed objects (cannot disfollow his followers).
+     
+     How to fetch data logically?
+     
+       Check Queries.js file !
+     
      👉Code 
+     
        Check Mysql.sql
      
   ### 🔍Realized Functions 
+  
       #### What you can do? 📢
       
       👉Create a new post with text, emoji, or picture.
@@ -106,12 +125,15 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
         followed object's personal profile.
       
       #### How to logout? 👣
+      
       👉Click menue item, and then click the second item (top right).
       
       #### Want to explore more? 🤓
+      
       👉Try to click some unique icon.
       
    ### The end 📌
+   
       Thank you for visiting my website and my repositery. 
       Feel free to ask any tech question that you might be faced after you clone locally and start to deploy your own social media app!
       I'll keep exploring more functions of a social network app.👍
