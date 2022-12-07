@@ -2,7 +2,7 @@
 # Social-Media-1.0-Complete
 
 ## 👉Introduction
-  Social Media 1.0 is a full stack web application which depends on MySQL, ExpressJS, React, and NodeJS technologies.
+  Social Media 1.0 is a full stack web application which mainly depends on MySQL, ExpressJS, React, and NodeJS technologies.
 
   It has been deployed on the Netlify, here is the link of the website.
   
