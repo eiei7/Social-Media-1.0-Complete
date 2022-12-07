@@ -82,8 +82,17 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
      npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage 
      helmet morgan jsonwebtoken nodemon cookie-parser moment mysql
      
-  ### 🔍Realied Functions 
-      [What you can do? 📢]
+  ### Design of MySQL Database
+     👉picture
+     
+     👉Logic 
+     
+     👉Code 
+       Check Mysql.sql
+     
+  ### 🔍Realized Functions 
+      #### What you can do? 📢
+      
       👉Create a new post with text, emoji, or picture.
       👉Click to dropzone to upload your local picture or pull an image from
         internet on dropzone.
@@ -95,11 +104,14 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
         message left it won't react.)
       👉Click your followed object's name, and then you'll be brought to your
         followed object's personal profile.
-      [How to logout? 👣]
+      
+      #### How to logout? 👣
       👉Click menue item, and then click the second item (top right).
-      [Want to explore more? 🤓]
+      
+      #### Want to explore more? 🤓
       👉Try to click some unique icon.
-      [The end 📌]
+      
+   ### The end 📌
       Thank you for visiting my website and my repositery. 
       Feel free to ask any tech question that you might be faced after you clone locally and start to deploy your own social media app!
       I'll keep exploring more functions of a social network app.👍
