@@ -3,7 +3,7 @@
 ## 👉Introduction
 Social Media 1.0 is a full stack web application which depends on MySQL, ExpressJS, React, and NodeJS technologies.
 
-### File Structure
+### 🧾File Structure
     Social Media 1.0
        |
        |___client
@@ -62,14 +62,45 @@ Social Media 1.0 is a full stack web application which depends on MySQL, Express
                |                    comments.js
                |                    likes.js
                |                    posts.js
-               |                    users.js
-               |______db.js
+               |______db.js         users.js
                       index.js
                       .env(hidden)
                       .gitignore
                       package.json
                       package-lock.json
                       
-                      
-                      
-       
+ 
+ ### 📌Dependencies 
+     (copy and paste 👇)
+     
+     1. For client: 
+     npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup 
+     react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material 
+     react-input-emoji react-card-flip axios
+     
+     2. For server: 
+     npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage 
+     helmet morgan jsonwebtoken nodemon cookie-parser moment mysql
+     
+  ### 🔍Realied Functions 
+      [What you can do? 📢]
+      👉Create a new post with text, emoji, or picture.
+      👉Click to dropzone to upload your local picture or pull an image from
+        internet on dropzone.
+      👉Flip followedList to check your follwers.
+      👉Your homepage shows all the posts include yours and your followed
+        objects.
+      👉Click heart icon which represents like or remove like for any post.
+      👉Click message icon to check all the message of a post.(If there's no
+        message left it won't react.)
+      👉Click your followed object's name, and then you'll be brought to your
+        followed object's personal profile.
+      [How to logout? 👣]
+      👉Click menue item, and then click the second item (top right).
+      [Want to explore more? 🤓]
+      👉Try to click some unique icon.
+      [The end 📌]
+      Thank you for visiting my website and my repositery. 
+      Feel free to ask any tech question that you might be faced after you clone locally and start to deploy your own social media app!
+      I'll keep exploring more functions of a social network app.👍
+      
