@@ -124,8 +124,6 @@
      
   ### 🔍Realized Functions 
   
-  <iframe title="vimeo-player" src="https://player.vimeo.com/video/778797097?h=cec90533cc" width="640" height="380" frameborder="0" allowfullscreen></iframe>
-  
       #### What can you do? 📢
       
       👉Create a new post with text, emoji, or picture.
