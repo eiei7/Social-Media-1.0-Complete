@@ -117,7 +117,7 @@
        Check Mysql.sql
        
   
-  ![Social Media MySQL Diagram](Social Media MySQL Diagram.png)
+  ![MYSQL Diagram](/Social Media MySQL Diagram.png)
        
   ### Logic & Relationship between each components/file
   
