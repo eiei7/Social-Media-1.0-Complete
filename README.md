@@ -117,7 +117,7 @@
        Check Mysql.sql
        
   
-  <img width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9' alt="Diagram of MySQL"> </img>
+  <iframe width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9' alt="Diagram of MySQL"> </iframe>
        
   ### Logic & Relationship between each components/file
   
