@@ -94,7 +94,7 @@
   ### Design of MySQL Database
   
      👉picture 
-     <iframe width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9'> </iframe>
+     <img width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9' alt="Diagram of MySQL"> </img>
      
      👉Logic 
      
