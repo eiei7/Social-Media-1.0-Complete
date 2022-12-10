@@ -92,9 +92,6 @@
      helmet morgan jsonwebtoken nodemon cookie-parser moment mysql
      
   ### Design of MySQL Database
-  
-     👉picture 
-     <img width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9' alt="Diagram of MySQL"> </img>
      
      👉Logic 
      
@@ -118,6 +115,9 @@
      👉Code 
      
        Check Mysql.sql
+       
+  
+  <img width="560" height="315" src='https://dbdiagram.io/embed/63946d48bae3ed7c4545f6c9' alt="Diagram of MySQL"> </img>
        
   ### Logic & Relationship between each components/file
   
