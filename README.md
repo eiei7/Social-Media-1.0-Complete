@@ -117,7 +117,7 @@
        Check Mysql.sql
        
   
-  ![MYSQL Diagram](https://dbdiagram.io/d/63946d48bae3ed7c4545f6c9)
+  ![MYSQL Diagram](Mysql_diagram.png)
        
   ### Logic & Relationship between each components/file
   
